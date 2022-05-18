@@ -14,7 +14,9 @@ The typical grammar is like the following: "C|(W)|[D]2*|(W)|C"
 
 The | is to divide different of the gramma. The letter represents different component. The * means this component can be scaled. The () means the component can be  duplicated infinitely. The [] means the component can be  duplicated only limited times. 
 
-
+![example1](https://github.com/xvxv1702/A-tower-generator/blob/main/result/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220518144142.png)
+![example2](https://github.com/xvxv1702/A-tower-generator/blob/main/result/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220518144548.png)
+![example3](https://github.com/xvxv1702/A-tower-generator/blob/main/result/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220518144735.png)
 
 ### Declaration:
 
