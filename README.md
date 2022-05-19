@@ -13,6 +13,7 @@ The cga file is the gate of the project. The component file is to define differe
 The typical grammar is like the following: "C|(W)|[D]2*|(W)|C"
 
 The | is to divide different of the gramma. The letter represents different component. The * means this component can be scaled. The () means the component can be  duplicated infinitely. The [] means the component can be  duplicated only limited times. 
+You can find more information here: https://www.bilibili.com/video/BV1rZ4y187yf.
 
 ![example1](https://github.com/xvxv1702/A-tower-generator/blob/main/result/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220518144142.png)
 ![example2](https://github.com/xvxv1702/A-tower-generator/blob/main/result/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220518144548.png)
@@ -21,7 +22,6 @@ The | is to divide different of the gramma. The letter represents different comp
 ### Reference:
 
 I learned a lot from this paper, Procedural modeling of buildings, which you can find in the following link: https://dl.acm.org/doi/10.1145/1141911.1141931.
-
 Besides, I also learned from this video made by epic games, which you can find in this link: https://www.bilibili.com/video/BV1W5411D7HT/?spm_id_from=333.788.
 
 
